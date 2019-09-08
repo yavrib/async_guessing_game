@@ -1,0 +1,6 @@
+-sname async_guessing_game
+
+-setcookie async_guessing_game_cookie
+
++K true
++A30
